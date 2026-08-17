@@ -22,8 +22,8 @@ Salut ! Moi c’est **Kalil**, un passionné de développement logiciel avec une
 ---
 ## 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Khalil-keita&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-keita&layout=compact&theme=tokyonight)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Ibrahim-Khalil-Keita&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-Khalil-Keita&layout=compact&theme=tokyonight)
 
 ---
 
